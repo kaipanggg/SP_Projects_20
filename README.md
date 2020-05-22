@@ -1,6 +1,3 @@
-# WI20_OUTAGES_PREDICTION
-WI20_Outage_Project
+# Misc. Projects
 
-Predict US outages 
-
-Kai Pang
+Simlim
